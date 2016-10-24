@@ -1,1 +1,2 @@
 # conferenceChatApp
+This repo contains code for Chat application that can be used in conferences. It provides functionality of creating chat rooms of specific people so that other participants cannot read the chat.
